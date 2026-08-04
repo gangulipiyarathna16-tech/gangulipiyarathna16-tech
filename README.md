@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="Security" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Security" width="320" src="assets/security-banner.svg">
 
 ### 🛡️ About Me
 
@@ -70,20 +70,20 @@
 
 ### 💼 What I've Been Building
 
-- **GRC Compliance Dashboard** — internal dashboard visualizing audit findings, control status, and compliance metrics in real time, cutting down manual reporting effort
-- **Automated Audit Notification System** — email and workflow automation that alerts stakeholders on audit deadlines, evidence requests, and remediation actions
-- **Compliance Documentation Portal** — internal web tool centralizing compliance documentation, risk registers, and control records
-- **CI/CD Compliance Monitoring** — support for GitHub CI/CD pipeline monitoring to maintain change traceability and secure software delivery
-- **Sheepdip Malware Research Engine** — sandboxed analysis engine and research framework for dissecting unknown polymorphic malware samples
+- **GRC Compliance Dashboard** - internal dashboard visualizing audit findings, control status, and compliance metrics in real time, cutting down manual reporting effort
+- **Automated Audit Notification System** - email and workflow automation that alerts stakeholders on audit deadlines, evidence requests, and remediation actions
+- **Compliance Documentation Portal** - internal web tool centralizing compliance documentation, risk registers, and control records
+- **CI/CD Compliance Monitoring** - support for GitHub CI/CD pipeline monitoring to maintain change traceability and secure software delivery
+- **Sheepdip Malware Research Engine** - sandboxed analysis engine and research framework for dissecting unknown polymorphic malware samples
 
 ---
 
 ### 📜 Certifications
 
 - Fortinet Certified Associate in Cybersecurity
-- Cyber Threat Management (2024) — Cisco Networking Academy
-- Introduction to Cybersecurity (2023) — Cisco Networking Academy
-- Cybersecurity Foundations — LinkedIn Learning
+- Cyber Threat Management (2024) - Cisco Networking Academy
+- Introduction to Cybersecurity (2023) - Cisco Networking Academy
+- Cybersecurity Foundations - LinkedIn Learning
 
 ---
 
