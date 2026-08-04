@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="Cybersecurity" width="380" src="https://media.giphy.com/media/Hlfwkm3jIaPPemsNZ2/giphy.gif">
+<img align="right" alt="Cybersecurity" width="380" src="https://media.giphy.com/media/aDuF2saAHaJbRKqwAb/giphy.gif">
 
 ### 🛡️ About Me
 
