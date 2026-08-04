@@ -1,0 +1,48 @@
+<svg width="380" height="320" viewBox="0 0 380 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1565C0"/>
+      <stop offset="100%" stop-color="#0D47A1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#42A5F5" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#42A5F5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="190" cy="150" r="150" fill="url(#glow)"/>
+
+  <!-- orbiting dots representing monitoring / automation -->
+  <g>
+    <circle cx="190" cy="150" r="0" fill="none"/>
+    <g>
+      <circle cx="190" cy="30" r="5" fill="#64B5F6">
+        <animateTransform attributeName="transform" type="rotate" from="0 190 150" to="360 190 150" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="330" cy="150" r="4" fill="#90CAF9">
+        <animateTransform attributeName="transform" type="rotate" from="120 190 150" to="480 190 150" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="60" cy="220" r="4" fill="#90CAF9">
+        <animateTransform attributeName="transform" type="rotate" from="240 190 150" to="600 190 150" dur="9s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- shield -->
+  <g transform="translate(190,150)">
+    <path d="M 0 -85 L 65 -55 L 65 15 C 65 65 35 95 0 110 C -35 95 -65 65 -65 15 L -65 -55 Z"
+          fill="url(#shieldGrad)" stroke="#0B3D91" stroke-width="3"/>
+
+    <!-- checkmark, pulsing to suggest active/verified compliance -->
+    <path d="M -28 5 L -8 28 L 32 -22" fill="none" stroke="#FFFFFF" stroke-width="9"
+          stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- lock beneath shield, small accent -->
+  <g transform="translate(190,255)" opacity="0.85">
+    <rect x="-16" y="-2" width="32" height="24" rx="4" fill="#1976D2"/>
+    <path d="M -10 -2 L -10 -12 A 10 10 0 0 1 10 -12 L 10 -2" fill="none" stroke="#1976D2" stroke-width="5"/>
+  </g>
+</svg>
