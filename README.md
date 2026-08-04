@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="Security" width="320" src="assets/security-banner.svg">
+<img align="right" alt="Security" width="320" src="security-banner.svg">
 
 ### 🛡️ About Me
 
