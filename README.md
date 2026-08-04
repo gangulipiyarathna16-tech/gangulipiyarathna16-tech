@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gangulipiyarathna16-tech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <img align="right" alt="Cybersecurity" width="380" src="https://media.giphy.com/media/aDuF2saAHaJbRKqwAb/giphy.gif">
@@ -90,10 +90,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gangulipiyarathna16-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangulipiyarathna16-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangulipiyarathna16-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
